@@ -1,0 +1,7 @@
+.vscode
+package-lock.json
+.idea
+.git
+frontend/node_modules/
+/el/db.sqlite3
+backend/env/
